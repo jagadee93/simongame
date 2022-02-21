@@ -63,6 +63,13 @@ body {
   border-bottom-width: 0px;
   border-right-width: 0px;
 }
+.copyright{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1em;
+  color: white;
+  display: block;
+
+}
 @media screen and (orientation: portrait) {
   body{
     margin-top: 13em;
@@ -93,6 +100,9 @@ body {
     font-size: 5rem;
     margin:  9%;
     color: #FEF2BF;
+  }
+  .copyright{
+    margin-top: 200px;
   }
 
 }
